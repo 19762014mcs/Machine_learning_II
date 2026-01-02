@@ -17,7 +17,7 @@ El análisis se divide en 5 pasos críticos:
 * **Scikit-Learn**: Modelado, validación cruzada y métricas.
 * **Matplotlib & Seaborn**: Visualización estadística.
 
-## 📈 Resultados Clave
+## 📈 Conclusiones
 * **Efecto Lasso**: El modelo Lasso logró simplificar la complejidad polinomial, eliminando variables redundantes y manteniendo un alto F1-Score.
 * **Métrica Primaria**: Se priorizó el **F1-Score** y **PR-AUC** debido al desbalance de clases (26% churn).
 * **Hallazgo**: La interacción entre el cargo mensual y el tiempo de contrato resultó ser el predictor más fuerte de fuga.
