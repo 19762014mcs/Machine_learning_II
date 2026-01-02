@@ -23,5 +23,5 @@ El análisis se divide en 5 pasos críticos:
 * **Hallazgo**: La interacción entre el cargo mensual y el tiempo de contrato resultó ser el predictor más fuerte de fuga.
 
 ## 👥 Autores
-* Desarrollado como parte de la actividad del curso de Ciencia de Datos.
-* Fecha de entrega: 06 de Diciembre, 2026.
+* Marcelo Carmona - Paula Alvarez
+* Asignatura Machine Learning II
