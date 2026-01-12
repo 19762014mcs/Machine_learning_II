@@ -1,6 +1,6 @@
 # 📊 Predicción de Churn de Clientes mediante Regresión Logística
 
-Este proyecto aplica técnicas de **Machine Learning** para identificar la probabilidad de abandono (churn) de clientes en una empresa de telecomunicaciones. Se exploran modelos de regresión logística con expansiones polinomiales y técnicas de regularización para optimizar la precisión y la interpretabilidad.
+Esta actividad aplica técnicas de **Machine Learning** para identificar la probabilidad de abandono (churn) de clientes en una empresa de telecomunicaciones. Se exploran modelos de regresión logística con expansiones polinomiales y técnicas de regularización para optimizar la precisión y la interpretabilidad.
 
 ## 🚀 Estructura del Proyecto
 
