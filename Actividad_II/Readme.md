@@ -70,6 +70,3 @@ A lo largo del proyecto se realizan:
 - El árbol individual es útil para interpretación, pero su desempeño es insuficiente.  
 
 ---
-
-
-``
