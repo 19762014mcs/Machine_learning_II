@@ -1,4 +1,4 @@
-# Actividad 3 – *Machine Learning II*
+# Actividad III – *Machine Learning II*
 Autores: Marcelo Carmona - Paula Alvarez
 
 ## 📌 Descripción General
