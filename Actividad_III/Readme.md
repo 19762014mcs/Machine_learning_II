@@ -2,7 +2,7 @@
 Autores: Marcelo Carmona - Paula Alvarez
 
 ## 📌 Descripción General
-Este proyecto corresponde a la **Actividad 3 del curso Machine Learning II**, realizada por *Paula Álvarez y Marcelo Carmona*.  
+Este proyecto corresponde a la **Actividad 3 del curso Machine Learning II**.
 El objetivo es aplicar distintos modelos de clasificación al problema de **churn prediction** (abandono de clientes), evaluando su desempeño y discutiendo ventajas, limitaciones e interpretabilidad.
 
 Se implementan dos enfoques principales:
